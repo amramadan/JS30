@@ -2,7 +2,7 @@
 This is my work on the Javascript30 challenges:
 - [x] JavaScript Drum Kit
 - [x] CSS + JS Clock
-- [ ] Playing with CSS Variables and JS
+- [x] Playing with CSS Variables and JS
 - [ ] Array Cardio Day
 - [ ] Flex Panels Image Gallery
 - [ ] Ajax Type Ahead
