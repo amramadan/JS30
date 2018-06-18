@@ -1,7 +1,7 @@
 # JS30
 This is my work on the Javascript30 challenges:
 - [x] JavaScript Drum Kit
-- [ ] CSS + JS Clock
+- [x] CSS + JS Clock
 - [ ] Playing with CSS Variables and JS
 - [ ] Array Cardio Day
 - [ ] Flex Panels Image Gallery
